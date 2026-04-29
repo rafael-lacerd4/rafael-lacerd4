@@ -1,15 +1,33 @@
-  # Rafael Lacerda Silva
+# Rafael Lacerda Silva
 
-🎓 **Estudante de Ciência da Computação** | 💡 **Product & Tech Enthusiast**
+💻 **Análise de Dados | Cloud Computing**  
+🚀 **Tech & Data Enthusiast**
 
-Atualmente, atuo como **Estagiário de Sucesso do Cliente**, unindo uma base sólida em Ciência da Computação com a habilidade de traduzir necessidades técnicas em soluções de valor para o usuário final.
+Atuo na área de tecnologia com foco em **Análise de Dados e Cloud Computing**, com experiência prática em suporte a sistemas corporativos e resolução de problemas.
+
+Tenho vivência com sistemas ERP do mercado financeiro, atuando na análise de incidentes, investigação de causa raiz e entendimento de regras de negócio, sempre com foco na experiência do usuário e na continuidade operacional.
 
 ---
 
 ### 🚀 Sobre mim
 
-* 🔭 Explorando **Estruturas de Dados**, **Algoritmos** e **Arquitetura de Software**.
-* ⚡ Apaixonado por converter dados em insights e código em interfaces intuitivas.
-* 💬 Fale comigo sobre: **React**, **Python**, **UX** e **Estratégia de Produto**.
+* 🔍 Experiência em **análise de problemas**, diagnóstico de falhas e suporte a sistemas
+* 📊 Foco em transformar **dados em insights** para tomada de decisão
+* ⚙️ Interesse em **Cloud Computing (AWS)** e integração com soluções orientadas a dados
+* 💬 Fale comigo sobre: **SQL**, **Python**, **Cloud**, **Dados** e **Sistemas**
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Cloud:** AWS (EC2, S3, IAM, VPC, CloudWatch)  
+**Dados:** SQL, Python, Excel  
+**Sistemas:** Linux, Git  
+
+---
+
+### 🎯 Objetivo
+
+Atuar nas áreas de **Dados, Cloud Computing ou Infraestrutura**, aplicando tecnologia para resolver problemas reais e gerar valor através de dados.
 
 ---
